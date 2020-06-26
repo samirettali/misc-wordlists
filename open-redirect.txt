@@ -25,11 +25,14 @@
 ?continue=http://example.com
 ?dest=http://example.com
 ?destination=http://example.com
+?domain_=http://example.com
 ?go=http://example.com
 ?image_url=http://example.com
+?name=http://example.com
 ?next=http://example.com
 ?redir=http://example.com
 ?redirect=http://example.com
+?redirect_to=http://example.com
 ?redirect_uri=http://example.com
 ?redirect_url=http://example.com
 ?return=http://example.com
